@@ -1,1 +1,1 @@
-# Project-15
+We will be creating a page using React that includes details about ourselves such as job experience, education upbringing, skills, and information about life goals. The page will include demonstration of React props, CSS stye components, and React effects in JSX. 
